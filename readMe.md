@@ -13,5 +13,5 @@ Remember: Do not change the project's folder name without updating the $config['
 
 **Login Details** 
 
-Username: admin
-Password: password123
+- Username: admin
+- Password: password123
