@@ -12,5 +12,6 @@ Remember: Do not change the project's folder name without updating the $config['
 **import SQL filr from: DATABASE FILE/rental_mobil.sql
 
 **Login Details** 
+
 Username: admin
 Password: password123
